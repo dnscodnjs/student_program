@@ -1,0 +1,25 @@
+﻿  main.c
+C:\Users\yun98\source\repos\studentStructure_0302\studentStructure_0302\cwstdio.h(11,16): error C2011: 'MAIN_MENU': 'enum' 형식 재정의
+C:\Users\yun98\source\repos\studentStructure_0302\studentStructure_0302\main.c(2): message : 'MAIN_MENU' 선언을 참조하십시오.
+C:\Users\yun98\source\repos\studentStructure_0302\studentStructure_0302\cwstdio.h(15,16): error C2011: 'EDIT_MENU': 'enum' 형식 재정의
+C:\Users\yun98\source\repos\studentStructure_0302\studentStructure_0302\main.c(6): message : 'EDIT_MENU' 선언을 참조하십시오.
+C:\Users\yun98\source\repos\studentStructure_0302\studentStructure_0302\cwstdio.h(22,35): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+C:\Users\yun98\source\repos\studentStructure_0302\studentStructure_0302\cwstdio.h(22,35): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+C:\Users\yun98\source\repos\studentStructure_0302\studentStructure_0302\cwstdio.h(22,44): error C2059: 구문 오류: ')'
+C:\Users\yun98\source\repos\studentStructure_0302\studentStructure_0302\cwstdio.h(49,12): error C2371: 'current': 재정의. 기본 형식이 다릅니다.
+C:\Users\yun98\source\repos\studentStructure_0302\studentStructure_0302\cwstdio.h(22): message : 'current' 선언을 참조하십시오.
+C:\Users\yun98\source\repos\studentStructure_0302\studentStructure_0302\cwstdio.h(142,34): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\yun98\source\repos\studentStructure_0302\studentStructure_0302\cwstdio.h(142,34): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+C:\Users\yun98\source\repos\studentStructure_0302\studentStructure_0302\cwstdio.h(154,26): warning C4013: 'input_score'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\yun98\source\repos\studentStructure_0302\studentStructure_0302\cwstdio.h(172,14): warning C4098: 'update_student_data': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\yun98\source\repos\studentStructure_0302\studentStructure_0302\cwstdio.h(208,51): warning C4020: 'puts': 실제 매개 변수가 너무 많습니다.
+C:\Users\yun98\source\repos\studentStructure_0302\studentStructure_0302\main.c(14,6): error C2374: 'student_file_name': 재정의. 여러 번 초기화했습니다.
+C:\Users\yun98\source\repos\studentStructure_0302\studentStructure_0302\cwstdio.h(20): message : 'student_file_name' 선언을 참조하십시오.
+C:\Users\yun98\source\repos\studentStructure_0302\studentStructure_0302\main.c(147,22): warning C4133: '=': 'STUDENT *'과(와) 'int *' 사이의 형식이 호환되지 않습니다.
+C:\Users\yun98\source\repos\studentStructure_0302\studentStructure_0302\main.c(157,34): warning C4133: '함수': 'int *'과(와) 'STUDENT_t *' 사이의 형식이 호환되지 않습니다.
+C:\Users\yun98\source\repos\studentStructure_0302\studentStructure_0302\main.c(186,17): error C2223: '->prev' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+C:\Users\yun98\source\repos\studentStructure_0302\studentStructure_0302\main.c(187,24): error C2223: '->prev' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+C:\Users\yun98\source\repos\studentStructure_0302\studentStructure_0302\main.c(191,17): error C2223: '->next' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+C:\Users\yun98\source\repos\studentStructure_0302\studentStructure_0302\main.c(192,24): error C2223: '->next' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+C:\Users\yun98\source\repos\studentStructure_0302\studentStructure_0302\main.c(200,31): warning C4133: '함수': 'int *'과(와) 'STUDENT_t *' 사이의 형식이 호환되지 않습니다.
+C:\Users\yun98\source\repos\studentStructure_0302\studentStructure_0302\main.c(209,19): warning C4133: '=': 'STUDENT_t *'과(와) 'int *' 사이의 형식이 호환되지 않습니다.
